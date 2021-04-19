@@ -59,4 +59,3 @@ if(logGroup1[i].x<0){
 
   drawSprites();
 }
-
