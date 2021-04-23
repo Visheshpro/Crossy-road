@@ -17,7 +17,7 @@ function setup() {
   
   for(var i = 0 ; i < 80; i++){
 
-    log = new Log(2)
+    log = new Log(-2)
     logGroup1.add(log.spt)
    }
  
